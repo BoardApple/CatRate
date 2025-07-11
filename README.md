@@ -3,4 +3,4 @@
 
 ---
 
-<a href="https://cat-rate-test-jsjb971ab-halewals-projects.vercel.app/"><b>Live Version</b></a>
+<a href="https://cat-rate-test.vercel.app/"><b>Live Version</b></a>
