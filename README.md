@@ -1,5 +1,13 @@
 <h1><b>CatRate</b></h1>
-<i>This is a basic flask API project that gets cat images and allows the user to rate them</i>
+
+
+<p>This is a basic flask project that uses <a href="thecatapi.com">The Cat API</a>.</p>
+<p>It gets the image ID and saves the average ratings based on that ID.</p>
+
+---
+<b>Usage:</b>
+<p>To use it click the "NEW CAT!" button to get a new random cat image.</p>
+<p>Click the stars to give it a rating, not sure how good the saving actually is, likely doesn't work</p>
 
 ---
 
